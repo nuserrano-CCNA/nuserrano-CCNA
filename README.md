@@ -1,6 +1,4 @@
-╦ ╦┌─┐┬  ┬  ┌─┐  ╔╦╗┬ ┬┌─┐┬─┐┌─┐
-╠═╣├┤ │  │  │ │   ║ ├─┤├┤ ├┬┘├┤ 
-╩ ╩└─┘┴─┘┴─┘└─┘   ╩ ┴ ┴└─┘┴└─└─┘
+## Hello There.
                                                                                                                
 
 Hi, I’m Nate - a CCNA-certified Computer Science graduate from California State University who’s passionate about all things networking
