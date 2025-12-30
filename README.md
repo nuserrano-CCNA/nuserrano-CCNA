@@ -5,6 +5,7 @@ I’m a CCNA-certified Computer Information Technology student focused on
 Network Operations, Monitoring, and Infrastructure support.
 
 🔹 I build and document hands-on networking labs using [Cisco Packet Tracer labs](https://github.com/nuserrano-CCNA/packet-tracer-labs)
+
 🔹 I’m developing NOC-relevant skills: troubleshooting, observability, and operational awareness  
 
 Currently pursuing my B.S. in Computer Science at California State University, Northridge.
