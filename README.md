@@ -8,4 +8,4 @@ Network Operations, Monitoring, and Infrastructure support.
 
 🔹 I’m developing NOC-relevant skills: troubleshooting, observability, and operational awareness  
 
-Currently pursuing my B.S. in Computer Information Technology at California State University, Northridge.
+Currently pursuing a B.S. in Computer Information Technology at California State University, Northridge; hold an A.S. in Computer Science.
